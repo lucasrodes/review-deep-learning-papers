@@ -22,7 +22,8 @@ This paper was the one that first showed the power of CNNs on high-definition re
 - CNNs contain fewer parameters and that were easier to train than traditional networks.
 
 
-#### Network details
+#### Network details
+
 **Architecture**
 - ReLu non-linearity: They used this activation for the first time and reported faster learning process.
 - Brightness normalization: Lateral inhibition, creating competition for big activities amongs neuron outputs generated using different kernels.
@@ -41,7 +42,8 @@ This paper was the one that first showed the power of CNNs on high-definition re
 **Misc**
 - They propose the system as a feature extractor model to enhance image retrieval.
 
-#### Conclusion
+#### Conclusion
+
 - Deep learning for computer vision is a wise choice.
 - Depth of the architecture matters.
 
