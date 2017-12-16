@@ -8,7 +8,7 @@ In this regard, throughout the years several CNN architectures have been propose
 On the following, we summarize some of the most relevant work and their key ideas.
 
 
-### ImageNet Classification with Deep Convolutinoal Neural Networks
+## ImageNet Classification with Deep Convolutinoal Neural Networks
 
 *Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). In Advances in neural information processing systems (pp. 1097-1105).* [[paper]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
@@ -16,13 +16,13 @@ This paper was the one that first showed the power of CNNs on high-definition re
 
 ![](imgs/alexnet1.png)
 
-#### Motivation
+### Motivation
 - Efficient implementation of 2D convolution & powerful GPUs allow for large dataset training.
 - Need of large learning capacity: CNNs provide this feature.
 - CNNs contain fewer parameters and that were easier to train than traditional networks.
 
 
-#### Network details
+### Network details
 
 **Architecture**
 - ReLu non-linearity: They used this activation for the first time and reported faster learning process.
@@ -42,7 +42,7 @@ This paper was the one that first showed the power of CNNs on high-definition re
 **Misc**
 - They propose the system as a feature extractor model to enhance image retrieval.
 
-#### Conclusion
+### Conclusion
 
 - Deep learning for computer vision is a wise choice.
 - Depth of the architecture matters.
